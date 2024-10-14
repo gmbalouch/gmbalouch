@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
+<h3 align="center">A passionate Backend Developer from Pakistan</h3>
 
 <img align="right" alr="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
